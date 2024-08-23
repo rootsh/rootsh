@@ -14,4 +14,4 @@ Principais áreas de interesse: AWS, Kubernetes, Terraform, GitOps, CI/CD.
 
 ## Onde me achar 🌎: 
 - Meus updates aleatórios no <a href="https://twitter.com/rootsh">X / Twitter</a> ✍🏾
-- Meus updates professionais no <a href="https://www.linkedin.com/in/rootsh/">LinkedIn</a> 💼
+- Meus updates profissionais no <a href="https://www.linkedin.com/in/rootsh/">LinkedIn</a> 💼
